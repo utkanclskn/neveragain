@@ -1,0 +1,12 @@
+{
+  "versionCode": 2689,
+  "versionName": "1.2",
+  "sha256": "4bdf430432de8dcb7d58104d8baf6cb5790bf241d3ba006fe4daae420e679416",
+  "minSdk": 26,
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2/NeverAgain-1.2-Android.apk",
+  "notes": {
+    "tr": "Ertele: bildirimden 10 dk, 30 dk, 1 saat, 3 saat ya da yarın sabah. Markete/spora giderken yakındaki yerler OpenStreetMap ile bulunur. Ev ve iş haritadan seçilir. Arka planda otomatik güncelleme ve birçok düzeltme.",
+    "en": "Snooze from the notification: 10 min, 30 min, 1 hour, 3 hours or tomorrow morning. Grocery/gym reminders find nearby places via OpenStreetMap. Pick home and work on a map. Automatic background updates and many fixes.",
+    "de": "Schlummern direkt in der Mitteilung: 10 Min., 30 Min., 1 Std., 3 Std. oder morgen früh. Supermarkt-/Fitness-Erinnerungen finden Orte in der Nähe über OpenStreetMap. Zuhause und Arbeit auf der Karte wählen. Automatische Updates im Hintergrund und viele Korrekturen."
+  }
+}
