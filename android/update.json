@@ -1,12 +1,12 @@
 {
-  "versionCode": 2689,
+  "versionCode": 2696,
   "versionName": "1.2",
-  "sha256": "4bdf430432de8dcb7d58104d8baf6cb5790bf241d3ba006fe4daae420e679416",
+  "sha256": "97b30afbe7912960ff25a7a3c530dc5b718c7575caa05fb64fd5a876ff324aaa",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2/NeverAgain-1.2-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2-2696/NeverAgain-1.2-Android.apk",
   "notes": {
-    "tr": "Ertele: bildirimden 10 dk, 30 dk, 1 saat, 3 saat ya da yarın sabah. Markete/spora giderken yakındaki yerler OpenStreetMap ile bulunur. Ev ve iş haritadan seçilir. Arka planda otomatik güncelleme ve birçok düzeltme.",
-    "en": "Snooze from the notification: 10 min, 30 min, 1 hour, 3 hours or tomorrow morning. Grocery/gym reminders find nearby places via OpenStreetMap. Pick home and work on a map. Automatic background updates and many fixes.",
-    "de": "Schlummern direkt in der Mitteilung: 10 Min., 30 Min., 1 Std., 3 Std. oder morgen früh. Supermarkt-/Fitness-Erinnerungen finden Orte in der Nähe über OpenStreetMap. Zuhause und Arbeit auf der Karte wählen. Automatische Updates im Hintergrund und viele Korrekturen."
+    "tr": "Doğum günleri: rehberden seçin, takvime ekleyin, o sabah ya da gece yarısı hatırlatayım. 'İncik 1 saat fırında kalacak' deyince zamanlayıcı başlar. Bildirim sesini Ayarlar'dan seçebilirsiniz.",
+    "en": "Birthdays: pick from contacts, add to your calendar, get reminded that morning or at midnight. Say 'chicken 1 hour in the oven' to start a timer. Choose your notification sound in Settings.",
+    "de": "Geburtstage: aus Kontakten wählen, in den Kalender eintragen, morgens oder um Mitternacht erinnern lassen. 'Hähnchen 1 Stunde im Ofen' startet einen Timer. Den Benachrichtigungston wählen Sie in den Einstellungen."
   }
 }
