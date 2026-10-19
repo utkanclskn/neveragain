@@ -1,12 +1,12 @@
 {
-  "versionCode": 2696,
+  "versionCode": 2701,
   "versionName": "1.2",
-  "sha256": "97b30afbe7912960ff25a7a3c530dc5b718c7575caa05fb64fd5a876ff324aaa",
+  "sha256": "342aae647c8ac6c9b5b26393e10e2f7491db6df7b98ef97b532d1012c7ca493d",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2-2696/NeverAgain-1.2-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2-2701/NeverAgain-1.2-Android.apk",
   "notes": {
-    "tr": "Doğum günleri: rehberden seçin, takvime ekleyin, o sabah ya da gece yarısı hatırlatayım. 'İncik 1 saat fırında kalacak' deyince zamanlayıcı başlar. Bildirim sesini Ayarlar'dan seçebilirsiniz.",
-    "en": "Birthdays: pick from contacts, add to your calendar, get reminded that morning or at midnight. Say 'chicken 1 hour in the oven' to start a timer. Choose your notification sound in Settings.",
-    "de": "Geburtstage: aus Kontakten wählen, in den Kalender eintragen, morgens oder um Mitternacht erinnern lassen. 'Hähnchen 1 Stunde im Ofen' startet einen Timer. Den Benachrichtigungston wählen Sie in den Einstellungen."
+    "tr": "Konum düzeltmeleri: iş hatırlatması artık evde gelmez, ev ve iş çok yakınsa uyarırım; yarıçap en az 100 m. Ayarlar'da yalnızca eksik izinler. Yeni animasyonlar.",
+    "en": "Location fixes: your work reminder no longer fires at home, and I warn you if home and work are too close; minimum radius 100 m. Settings shows only missing permissions. New animations.",
+    "de": "Ortskorrekturen: Die Arbeitserinnerung kommt nicht mehr zu Hause, und ich warne, wenn Zuhause und Arbeit zu nah sind; Mindestradius 100 m. Einstellungen zeigen nur fehlende Berechtigungen. Neue Animationen."
   }
 }
