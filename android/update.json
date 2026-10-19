@@ -1,12 +1,12 @@
 {
-  "versionCode": 2701,
+  "versionCode": 2728,
   "versionName": "1.2",
-  "sha256": "342aae647c8ac6c9b5b26393e10e2f7491db6df7b98ef97b532d1012c7ca493d",
+  "sha256": "f53f6b1e3b0b66d27f40963c94ca801e73acc2b7a4316fff26462b45e81ac149",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2-2701/NeverAgain-1.2-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2-2728/NeverAgain-1.2-Android.apk",
   "notes": {
-    "tr": "Konum düzeltmeleri: iş hatırlatması artık evde gelmez, ev ve iş çok yakınsa uyarırım; yarıçap en az 100 m. Ayarlar'da yalnızca eksik izinler. Yeni animasyonlar.",
-    "en": "Location fixes: your work reminder no longer fires at home, and I warn you if home and work are too close; minimum radius 100 m. Settings shows only missing permissions. New animations.",
-    "de": "Ortskorrekturen: Die Arbeitserinnerung kommt nicht mehr zu Hause, und ich warne, wenn Zuhause und Arbeit zu nah sind; Mindestradius 100 m. Einstellungen zeigen nur fehlende Berechtigungen. Neue Animationen."
+    "tr": "Takvim sekmesi (ay/gün/ajanda, etkinlik ekleme ve düzenleme, konum haritası), ajanda widget'ı, etkinliğe bağlı hatırlatma, araba Bluetooth'u kesilince hatırlatmaları yeniden gönderme, varsayılan takvim uygulaması seçilebilir, düşük güç modu koşulu.",
+    "en": "Calendar tab (month/day/agenda, add and edit events, location map), agenda widget, event-linked reminders, resend reminders when the car's Bluetooth disconnects, can be set as default calendar app, low power mode condition.",
+    "de": "Kalender-Tab (Monat/Tag/Agenda, Termine anlegen und bearbeiten, Ortskarte), Agenda-Widget, terminbezogene Erinnerungen, erneutes Senden beim Trennen des Auto-Bluetooth, als Standard-Kalender-App wählbar, Stromsparmodus-Bedingung."
   }
 }
