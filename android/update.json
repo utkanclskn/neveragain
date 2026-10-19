@@ -1,12 +1,12 @@
 {
-  "versionCode": 2728,
+  "versionCode": 2738,
   "versionName": "1.2",
-  "sha256": "f53f6b1e3b0b66d27f40963c94ca801e73acc2b7a4316fff26462b45e81ac149",
+  "sha256": "4c9898eb263aa367bc7874f25dc50d217eef7673890c1a74e40db8c9c5913ccc",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2-2728/NeverAgain-1.2-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2-2738/NeverAgain-1.2-Android.apk",
   "notes": {
-    "tr": "Takvim sekmesi (ay/gün/ajanda, etkinlik ekleme ve düzenleme, konum haritası), ajanda widget'ı, etkinliğe bağlı hatırlatma, araba Bluetooth'u kesilince hatırlatmaları yeniden gönderme, varsayılan takvim uygulaması seçilebilir, düşük güç modu koşulu.",
-    "en": "Calendar tab (month/day/agenda, add and edit events, location map), agenda widget, event-linked reminders, resend reminders when the car's Bluetooth disconnects, can be set as default calendar app, low power mode condition.",
-    "de": "Kalender-Tab (Monat/Tag/Agenda, Termine anlegen und bearbeiten, Ortskarte), Agenda-Widget, terminbezogene Erinnerungen, erneutes Senden beim Trennen des Auto-Bluetooth, als Standard-Kalender-App wählbar, Stromsparmodus-Bedingung."
+    "tr": "+ düğmesi artık sesle ya da klavyeyle başlıyor (Ayarlar'dan seçilir, uzun basınca menü); sekme, takvim ve başlık animasyonları; güncelleme ekranlarında derleme numarası.",
+    "en": "The + button now starts by voice or keyboard (choose in Settings; long-press for a menu); tab, calendar and title animations; build number shown on update screens.",
+    "de": "Die +-Taste startet jetzt per Sprache oder Tastatur (in den Einstellungen wählbar; langes Drücken öffnet ein Menü); Tab-, Kalender- und Titelanimationen; Build-Nummer auf den Update-Bildschirmen."
   }
 }
