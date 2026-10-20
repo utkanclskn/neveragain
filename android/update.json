@@ -1,12 +1,12 @@
 {
-  "versionCode": 2760,
+  "versionCode": 2764,
   "versionName": "1.2",
-  "sha256": "47d6858c8780ae3a1bb455472ced82cd8476013531004f748d91e900b6f77247",
+  "sha256": "65a683f2e94eee669407b8d205bf76c6b05a950493e3524bd1b9aa29fa1b457c",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2-2760/NeverAgain-1.2-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2-2764/NeverAgain-1.2-Android.apk",
   "notes": {
-    "tr": "Akıllı ev: SmartThings cihazları kural koşullarında seçilir (“Lambader açıksa”) ya da cümlede adı geçince kendiliğinden eklenir; evden çıkarken açık kalan ışık, kilitlenmemiş kapı ve kurallarda geçen prizler tek bildirimde gelir, bildirimden “Kapat / kilitle” ile kapatılır. SmartThings bağlantısı Ayarlar › Akıllı ev'den kurulur; Google Home desteği SDK çıkınca gelecek.",
-    "en": "Smart home: SmartThings devices can be picked in a rule’s conditions (“If the floor lamp is on”) or are added automatically when the sentence names them; lights left on, unlocked doors and outlets used in rules come in one notification when you leave home, with a “Turn off / lock” action. Connect SmartThings in Settings › Smart home; Google Home support comes once the SDK is released.",
-    "de": "Smart Home: SmartThings-Geräte lassen sich in den Bedingungen einer Regel wählen („Wenn die Stehlampe an ist“) oder werden automatisch ergänzt, wenn der Satz sie nennt; eingeschaltete Lichter, nicht abgeschlossene Türen und in Regeln verwendete Steckdosen kommen beim Verlassen des Hauses in einer Mitteilung mit „Ausschalten / abschließen“. SmartThings verbinden Sie unter Einstellungen › Smart Home; Google-Home-Unterstützung folgt, sobald das SDK erscheint."
+    "tr": "Öneri kartı: sık gereksiz bulunan hatırlatmada geçmişe bakılır ve koşul tek dokunuşla eklenir (“Yalnızca hafta içi”, “Yalnızca sabah”, “Yalnızca yağmurda”). Akıllı ev: SmartThings cihaz listesi artık saklanıyor; uygulama arka planda yeniden başlasa da cihaz koşulları ve evden çıkış bildirimi çalışır.",
+    "en": "Suggestion card: for a reminder that is often “not needed”, the app looks at its history and adds the condition in one tap (“Weekdays only”, “Mornings only”, “Only when it rains”). Smart home: the SmartThings device list is now stored, so device conditions and the leave-home notification work even after the app restarts in the background.",
+    "de": "Vorschlagskarte: Bei einer oft als „nicht nötig“ markierten Erinnerung schaut die App in den Verlauf und fügt die Bedingung mit einem Tipp hinzu („Nur wochentags“, „Nur morgens“, „Nur bei Regen“). Smart Home: Die SmartThings-Geräteliste wird jetzt gespeichert; Gerätebedingungen und die Mitteilung beim Verlassen des Hauses funktionieren auch nach einem Neustart der App im Hintergrund."
   }
 }
