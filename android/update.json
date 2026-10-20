@@ -1,12 +1,12 @@
 {
-  "versionCode": 2764,
+  "versionCode": 2765,
   "versionName": "1.2",
-  "sha256": "65a683f2e94eee669407b8d205bf76c6b05a950493e3524bd1b9aa29fa1b457c",
+  "sha256": "d66ef2dc18abfb572485f611162c445ef9123c6c597e11abe7c7a372eafd5c5d",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2-2764/NeverAgain-1.2-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2-2765/NeverAgain-1.2-Android.apk",
   "notes": {
-    "tr": "Öneri kartı: sık gereksiz bulunan hatırlatmada geçmişe bakılır ve koşul tek dokunuşla eklenir (“Yalnızca hafta içi”, “Yalnızca sabah”, “Yalnızca yağmurda”). Akıllı ev: SmartThings cihaz listesi artık saklanıyor; uygulama arka planda yeniden başlasa da cihaz koşulları ve evden çıkış bildirimi çalışır.",
-    "en": "Suggestion card: for a reminder that is often “not needed”, the app looks at its history and adds the condition in one tap (“Weekdays only”, “Mornings only”, “Only when it rains”). Smart home: the SmartThings device list is now stored, so device conditions and the leave-home notification work even after the app restarts in the background.",
-    "de": "Vorschlagskarte: Bei einer oft als „nicht nötig“ markierten Erinnerung schaut die App in den Verlauf und fügt die Bedingung mit einem Tipp hinzu („Nur wochentags“, „Nur morgens“, „Nur bei Regen“). Smart Home: Die SmartThings-Geräteliste wird jetzt gespeichert; Gerätebedingungen und die Mitteilung beim Verlassen des Hauses funktionieren auch nach einem Neustart der App im Hintergrund."
+    "tr": "Başlıklar için yeni yazı tipi: Roboto Slab (iOS'taki daktilo başlıklarının Android karşılığı). Gövde metni sistem yazısında kaldı.",
+    "en": "New heading font: Roboto Slab (the Android counterpart of the typewriter headings on iOS). Body text stays in the system font.",
+    "de": "Neue Schrift für Überschriften: Roboto Slab (das Android-Gegenstück zu den Schreibmaschinen-Überschriften auf iOS). Fließtext bleibt in der Systemschrift."
   }
 }
