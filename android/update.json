@@ -1,12 +1,12 @@
 {
-  "versionCode": 2765,
+  "versionCode": 2773,
   "versionName": "1.2",
-  "sha256": "d66ef2dc18abfb572485f611162c445ef9123c6c597e11abe7c7a372eafd5c5d",
+  "sha256": "ada0b52babbd28b2c845502f6f3735d0a21d1e13b43620f3c45a238ebeb22ea5",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2-2765/NeverAgain-1.2-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2-2773/NeverAgain-1.2-Android.apk",
   "notes": {
-    "tr": "Başlıklar için yeni yazı tipi: Roboto Slab (iOS'taki daktilo başlıklarının Android karşılığı). Gövde metni sistem yazısında kaldı.",
-    "en": "New heading font: Roboto Slab (the Android counterpart of the typewriter headings on iOS). Body text stays in the system font.",
-    "de": "Neue Schrift für Überschriften: Roboto Slab (das Android-Gegenstück zu den Schreibmaschinen-Überschriften auf iOS). Fließtext bleibt in der Systemschrift."
+    "tr": "Bildirimler daha okunaklı: soru kalın başlık, bağlam üstte, kontrol listesi alt alta; liste yoksa özet cümle. Yeni: Günlük rutinler (işe gidiş, ilaç, spor, çöp günü… hazır saatli kurallar), araba Bluetooth'u kesilince Park yeri kaydı ve ana ekranda harita düğmesi, Geçmiş'te son özet (sabah / haftalık / yatmadan önce).",
+    "en": "Notifications are easier to read: bold question, context on top, checklist items on separate lines; a summary sentence when there is no list. New: Daily routines (going to work, medicine, workout, trash day… ready-made timed rules), Parking spot saved when the car's Bluetooth disconnects with a map button on the home screen, and the latest summary (morning / weekly / bedtime) in History.",
+    "de": "Mitteilungen sind besser lesbar: Frage fett, Kontext oben, Checkliste zeilenweise; ohne Liste ein Zusammenfassungssatz. Neu: Tägliche Routinen (Weg zur Arbeit, Medikament, Training, Mülltag … fertige Zeitregeln), Parkplatz wird beim Trennen der Auto-Bluetooth-Verbindung gespeichert und auf dem Startbildschirm in der Karte geöffnet, letzte Zusammenfassung (morgens / wöchentlich / vor dem Schlafen) im Verlauf."
   }
 }
