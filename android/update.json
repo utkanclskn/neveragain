@@ -1,13 +1,13 @@
 {
-  "versionCode": 1020109,
+  "versionCode": 1020112,
   "versionName": "1.2.1",
-  "build": 9,
-  "sha256": "46a93dba05021a6a481eb93447cbd410ebd6d331d4cf2fa19b3bc7bb68df634a",
+  "build": 12,
+  "sha256": "cbc0c6cbed788a745ba4e2ccf8007cc2bd21a4a4c65c374059d5740041470fff",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2.1-9/NeverAgain-1.2.1-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2.1-12/NeverAgain-1.2.1-Android.apk",
   "notes": {
-    "tr": "Sürüm 1.2.1: Türkçe anlama düzeltmeleri — “2 saat sonra”, “gelecek ay”, “haftaya salı”; “annemlere gidince”, “İstanbul'a varınca” gibi adlı konumlar; “eve dönerken”, “işe giderken”; benzinci, Carrefour ve diğer yerler; yalnız koşul söylenince (“pil azsa şarj aleti al”) evden çıkış; kontrol listesi düzeltmeleri. Konum: iş için kurulan kural artık eve gelince tetiklenmez.",
-    "en": "Version 1.2.1: Turkish understanding fixes — “in 2 hours”, “next month”, “next Tuesday”; named places like “when I get to my parents'”; “on the way home”, “on the way to work”; gas station, Carrefour and more places; a condition on its own (“take the charger if the battery is low”) means leaving home; checklist fixes. Location: a rule set up for work no longer fires when you arrive home.",
-    "de": "Version 1.2.1: Korrekturen beim Verstehen (Türkisch) — „in 2 Stunden“, „nächsten Monat“, „nächsten Dienstag“; benannte Orte wie „wenn ich bei meinen Eltern ankomme“; „auf dem Heimweg“, „auf dem Weg zur Arbeit“; Tankstelle, Carrefour und weitere Orte; eine Bedingung allein („bei schwachem Akku das Ladegerät mitnehmen“) bedeutet Verlassen des Hauses; Checklisten-Korrekturen. Standort: Eine für die Arbeit angelegte Regel wird nicht mehr bei der Ankunft zu Hause ausgelöst."
+    "tr": "Düzeltme: “tatile giderken pasaportumu yanıma al” yeniden seyahat hatırlatması olarak anlaşılıyor (yanlışlıkla “Tatil” adlı konum sayılıyordu); haritadan henüz seçilmemiş adlı konumların özeti doğru (“Annemler konumuna vardığınızda…”).",
+    "en": "Fix: “take my passport when going on holiday” is understood as a trip reminder again (it was mistaken for a place named “Holiday”); summaries for named places not yet picked on the map are correct.",
+    "de": "Korrektur: „Reisepass mitnehmen, wenn ich in den Urlaub fahre“ wird wieder als Reise-Erinnerung verstanden (es wurde fälschlich als Ort „Urlaub“ gewertet); Zusammenfassungen für noch nicht auf der Karte gewählte Orte sind korrekt."
   }
 }
