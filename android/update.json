@@ -1,13 +1,13 @@
 {
-  "versionCode": 1020134,
-  "versionName": "1.2.1",
-  "build": 34,
-  "sha256": "0b633a6fd0a57d3abab955f7cb3c79bfaf4a975d760ca2ae7f0cd8dea50174c1",
+  "versionCode": 1030028,
+  "versionName": "1.3",
+  "build": 28,
+  "sha256": "419395c3705836f8c6b8e65112b32be6a80e8802a4c8c12162cd65d28855d886",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.2.1-34/NeverAgain-1.2.1-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-28/NeverAgain-1.3-Android.apk",
   "notes": {
-    "tr": "Akıllı yardımcılar: arabadan inerken, dönüş yolunda, kalkarken unutma, kaç gündür ve yurt dışı hatırlatmaları (Ayarlar > Akıllı yardımcılar). Evden çıkarken sorma artık yalnızca başlamamış etkinlikler için ve tekrar aralığına uyuyor; varışta zaten aldığınız şey tekrar sorulmuyor; çıkış saati duraklatmaya uyuyor; takvim izni verilince ekran kendiliğinden yenileniyor.",
-    "en": "Smart helpers: leaving the car, on the way home, leave-nothing-behind, days-since and abroad reminders (Settings > Smart helpers). The before-you-go question now only covers events that haven't started and respects the repeat interval; items you already confirmed aren't asked again on arrival; leave-time respects pause; the calendar refreshes itself once access is granted.",
-    "de": "Intelligente Helfer: beim Aussteigen, auf dem Heimweg, nichts liegen lassen, Tage seit dem letzten Besuch und Auslandserinnerungen (Einstellungen > Intelligente Helfer). Die Frage vor dem Losgehen gilt nur noch für Termine, die noch nicht begonnen haben, und beachtet das Wiederholungsintervall; bereits Bestätigtes wird bei der Ankunft nicht erneut gefragt; die Abfahrtszeit beachtet die Pause; der Kalender aktualisiert sich nach erteilter Berechtigung von selbst."
+    "tr": "Yeni: Bütçem sekmesi. Abonelik, fatura, kira ve taksitlerinizi bir kez yazın (“Her ayın 5'inde Netflix 229 TL”); çekimden önce, deneme süresi bitmeden ve yıllık yenilemeden bir hafta önce hatırlatır. Harcamalar (“Migros 850 TL”), kategori limitleri, maaş günü, ay özeti; ödemeler takvimde ve “Sıradaki ödeme” widget'ında; Netflix, Spotify gibi servislerin logoları; sesle giriş; markete girince kalan bütçe, kafeden çıkınca harcama sorusu. Sabah özetinde o gün çekilecek ödemeler.",
+    "en": "New: the My Budget tab. Enter subscriptions, bills, rent and installments once (“Netflix $9.99 on the 5th”); reminders before a charge, before a trial ends and a week before a yearly renewal. Spending (“Walmart 85”), category limits, payday, monthly summary; payments in the calendar and a “Next payment” widget; logos for services like Netflix and Spotify; voice entry; your remaining budget when entering a store and a spending question when leaving a café. The morning digest lists the day's charges.",
+    "de": "Neu: der Tab „Mein Budget“. Abos, Rechnungen, Miete und Raten einmal eintragen („Netflix 12,99 € am 5.“); Erinnerung vor der Abbuchung, vor Ablauf einer Testphase und eine Woche vor der jährlichen Verlängerung. Ausgaben („Rewe 42 €“), Kategorielimits, Zahltag, Monatsübersicht; Zahlungen im Kalender und ein Widget „Nächste Zahlung“; Logos von Diensten wie Netflix und Spotify; Spracheingabe; Restbudget beim Betreten eines Supermarkts, Ausgabenfrage beim Verlassen eines Cafés. Die Morgenübersicht nennt die Abbuchungen des Tages."
   }
 }
