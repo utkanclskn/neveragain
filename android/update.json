@@ -1,13 +1,13 @@
 {
-  "versionCode": 1030042,
+  "versionCode": 1030047,
   "versionName": "1.3",
-  "build": 42,
-  "sha256": "2da47da923f3dc8b5743df019fbf2533ef4037b6f06338bdc98b98f79a2523a1",
+  "build": 47,
+  "sha256": "15fa7d510c21c86569ce111d2af415e9d22e3324f59a24f20e7b296c530b78bf",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-42/NeverAgain-1.3-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-47/NeverAgain-1.3-Android.apk",
   "notes": {
-    "tr": "Bütçem temizliği: kategoriler yalnızca harcaması ya da limiti olanlar; düzenleyici sadeleşti (Tür ad/tutarla birlikte, “yaklaşık” yalnızca dövizde); “Tümü” ile tüm ödemeler ve aylık toplam; fatura/kira/taksitte “Bu dönemi ödendi işaretle”; tutar değişimi notu 45 gün sonra düşer; logolarla uyumlu rozetler. Cümle anlama: deneme süresi tutarsız girilebilir (“3 gün sonra bitiyor”), “aylık” gün söylenmediyse bugün, “/month”, “ayın sonunda”, “A101 85”, tarihli harcama (“15 Kasım'da 3.000 TL sigorta”). Yeni: Bütçe ayarları > Dışa aktar (CSV).",
-    "en": "My Budget cleanup: categories show only those with spending or a limit; simpler editor (Type next to name/amount, “approximate” only for foreign currency); “All” lists every payment with the monthly total; “Mark this period as paid” for bills, rent and installments; the amount-change note expires after 45 days; badges match logos. Sentence parsing: trials without an amount (“ends in 3 days”), “monthly” without a day means today, “/month”, “end of month”, “A101 85”, dated expenses. New: Budget settings > Export (CSV).",
-    "de": "Aufräumen in „Mein Budget“: Kategorien nur mit Ausgaben oder Limit; einfacherer Editor (Typ neben Name/Betrag, „ungefähr“ nur bei Fremdwährung); „Alle“ zeigt jede Zahlung mit Monatssumme; „Diesen Zeitraum als bezahlt markieren“ für Rechnungen, Miete und Raten; der Hinweis auf geänderte Beträge verfällt nach 45 Tagen; Badges passend zu den Logos. Satzerkennung: Testphasen ohne Betrag („endet in 3 Tagen“), „monatlich“ ohne Tag heißt heute, „/Monat“, „Monatsende“, „A101 85“, datierte Ausgaben. Neu: Budget-Einstellungen > Exportieren (CSV)."
+    "tr": "Bütçem canlandı: listeler kademeli beliriyor, tutarlar akarak değişiyor, ay geçişinde başlık kayıyor, çubuklar doluyor, satır ekleme/silme animasyonlu, yaklaşan vade nefes alıyor, logolar belirerek geliyor; sağ alt düğmenin simgesi sekmeler arasında yumuşak geçiş yapıyor.",
+    "en": "My Budget comes alive: lists fade in step by step, amounts count up, the month title slides, bars fill, adding/removing rows is animated, due-soon text breathes, logos appear smoothly; the bottom-right button's icon transitions between tabs.",
+    "de": "Mein Budget wird lebendig: Listen erscheinen gestaffelt, Beträge zählen hoch, der Monatstitel gleitet, Balken füllen sich, Zeilen werden animiert hinzugefügt/entfernt, fällige Hinweise atmen, Logos erscheinen sanft; das Symbol der Schaltfläche unten rechts wechselt weich zwischen Tabs."
   }
 }
