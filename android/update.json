@@ -1,13 +1,13 @@
 {
-  "versionCode": 1030067,
+  "versionCode": 1030073,
   "versionName": "1.3",
-  "build": 67,
-  "sha256": "4861e08a888dcd215d4358923116b8892c8ec94f7c16def68462bd1647d681e6",
+  "build": 73,
+  "sha256": "fe75673b7364ad6c136a09a41493e13a444b5345cb19559e0d308b91658378fb",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-67/NeverAgain-1.3-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-73/NeverAgain-1.3-Android.apk",
   "notes": {
-    "tr": "Temel işleyiş temizliği: açık tarihler artık gün adından önce anlaşılıyor (\"11 Kasım Çarşamba\" 11 Kasım'dır), \"salı ve perşembe\" haftalık, \"gelecek ay 5'inde\" gelecek ayın 5'i, \"7 buçukta\", tarih sözcükleri hatırlatma metninde kalmıyor; sınır geçişi bildirimi uygulama kapalıyken de geliyor. Yeni: Ayarlar > Yapay zeka — isterseniz kendi Anthropic, OpenAI ya da uyumlu hesabınızla cümleler daha iyi anlaşılır; anahtar yalnızca cihazda, sağlayıcıya yalnızca cümle gider.",
-    "en": "Core fixes: explicit dates now beat weekday names (\"Wednesday, November 11\" is Nov 11), \"Tuesday and Thursday\" is weekly, \"next month on the 5th\" is the 5th, date words no longer leak into the reminder text; the border-crossing notice now arrives while the app is closed. New: Settings > AI — optionally use your own Anthropic, OpenAI or compatible account to understand sentences better; the key stays on the device and only the sentence is sent.",
-    "de": "Grundlegende Korrekturen: explizite Daten schlagen jetzt Wochentage („Mittwoch, 11. November“ ist der 11. November), „Dienstag und Donnerstag“ ist wöchentlich, „nächsten Monat am 5.“ ist der 5., Datumswörter bleiben nicht mehr im Erinnerungstext; der Grenzübertritt-Hinweis kommt jetzt auch bei geschlossener App. Neu: Einstellungen > KI — optional mit eigenem Anthropic-, OpenAI- oder kompatiblem Konto Sätze besser verstehen; der Schlüssel bleibt auf dem Gerät, nur der Satz wird gesendet."
+    "tr": "Yapay Zeka Önerileri: sağ üstteki yeni düğmeden alışkanlıklar (neleri sık unutuyorum), takvim (etkinlik öncesi hatırlatma önerileri, tek dokunuşla kur) ve bütçe dengesi analizi. Ayarlar > Yapay zeka'da sağlayıcılar Anthropic, OpenAI ve Google Gemini; anahtar girilince hesabınızın modelleri listelenir ve seçilir. Öneriler düğmeye basmadan hiçbir veri göndermez; gönderilen veri ekranda yazılır.",
+    "en": "AI Suggestions: from the new top-right button, analyze habits (what you forget most), calendar (reminder suggestions before events, set up in one tap) and budget balance. Settings > AI now offers Anthropic, OpenAI and Google Gemini; once you enter a key, your account's models are listed and selectable. Nothing is sent until you tap; the data used is shown on screen.",
+    "de": "KI-Vorschläge: über die neue Schaltfläche oben rechts Gewohnheiten (was Sie am häufigsten vergessen), Kalender (Erinnerungsvorschläge vor Terminen, mit einem Tipp eingerichtet) und Budgetbalance analysieren. Einstellungen > KI bietet jetzt Anthropic, OpenAI und Google Gemini; nach Eingabe des Schlüssels werden die Modelle Ihres Kontos aufgelistet und auswählbar. Ohne Tippen wird nichts gesendet; die verwendeten Daten werden angezeigt."
   }
 }
