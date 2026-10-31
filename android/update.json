@@ -1,13 +1,13 @@
 {
-  "versionCode": 1030047,
+  "versionCode": 1030067,
   "versionName": "1.3",
-  "build": 47,
-  "sha256": "15fa7d510c21c86569ce111d2af415e9d22e3324f59a24f20e7b296c530b78bf",
+  "build": 67,
+  "sha256": "4861e08a888dcd215d4358923116b8892c8ec94f7c16def68462bd1647d681e6",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-47/NeverAgain-1.3-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-67/NeverAgain-1.3-Android.apk",
   "notes": {
-    "tr": "Bütçem canlandı: listeler kademeli beliriyor, tutarlar akarak değişiyor, ay geçişinde başlık kayıyor, çubuklar doluyor, satır ekleme/silme animasyonlu, yaklaşan vade nefes alıyor, logolar belirerek geliyor; sağ alt düğmenin simgesi sekmeler arasında yumuşak geçiş yapıyor.",
-    "en": "My Budget comes alive: lists fade in step by step, amounts count up, the month title slides, bars fill, adding/removing rows is animated, due-soon text breathes, logos appear smoothly; the bottom-right button's icon transitions between tabs.",
-    "de": "Mein Budget wird lebendig: Listen erscheinen gestaffelt, Beträge zählen hoch, der Monatstitel gleitet, Balken füllen sich, Zeilen werden animiert hinzugefügt/entfernt, fällige Hinweise atmen, Logos erscheinen sanft; das Symbol der Schaltfläche unten rechts wechselt weich zwischen Tabs."
+    "tr": "Temel işleyiş temizliği: açık tarihler artık gün adından önce anlaşılıyor (\"11 Kasım Çarşamba\" 11 Kasım'dır), \"salı ve perşembe\" haftalık, \"gelecek ay 5'inde\" gelecek ayın 5'i, \"7 buçukta\", tarih sözcükleri hatırlatma metninde kalmıyor; sınır geçişi bildirimi uygulama kapalıyken de geliyor. Yeni: Ayarlar > Yapay zeka — isterseniz kendi Anthropic, OpenAI ya da uyumlu hesabınızla cümleler daha iyi anlaşılır; anahtar yalnızca cihazda, sağlayıcıya yalnızca cümle gider.",
+    "en": "Core fixes: explicit dates now beat weekday names (\"Wednesday, November 11\" is Nov 11), \"Tuesday and Thursday\" is weekly, \"next month on the 5th\" is the 5th, date words no longer leak into the reminder text; the border-crossing notice now arrives while the app is closed. New: Settings > AI — optionally use your own Anthropic, OpenAI or compatible account to understand sentences better; the key stays on the device and only the sentence is sent.",
+    "de": "Grundlegende Korrekturen: explizite Daten schlagen jetzt Wochentage („Mittwoch, 11. November“ ist der 11. November), „Dienstag und Donnerstag“ ist wöchentlich, „nächsten Monat am 5.“ ist der 5., Datumswörter bleiben nicht mehr im Erinnerungstext; der Grenzübertritt-Hinweis kommt jetzt auch bei geschlossener App. Neu: Einstellungen > KI — optional mit eigenem Anthropic-, OpenAI- oder kompatiblem Konto Sätze besser verstehen; der Schlüssel bleibt auf dem Gerät, nur der Satz wird gesendet."
   }
 }
