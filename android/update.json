@@ -1,13 +1,13 @@
 {
-  "versionCode": 1030128,
+  "versionCode": 1030129,
   "versionName": "1.3",
-  "build": 128,
-  "sha256": "abcef1f65212ae43eda07e5680813e42b83dbcfc57d5ec6ccd3674b31f026530",
+  "build": 129,
+  "sha256": "cd3c297a98ed43f6329cc69da28fadaf54083137d76275d10d364607b5fd97dc",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-128/NeverAgain-1.3-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-129/NeverAgain-1.3-Android.apk",
   "notes": {
-    "tr": "Kendi yapay zekâ hesabınız seçiliyken kontrol listesi maddeleri ve bildirim sorusu da seçtiğiniz modelden geliyor.",
-    "en": "When your own AI account is selected, checklist items and the notification question now also come from the model you chose.",
-    "de": "Wenn Ihr eigenes KI-Konto ausgewählt ist, stammen Checklistenpunkte und die Benachrichtigungsfrage jetzt ebenfalls vom gewählten Modell."
+    "tr": "Kendi yapay zekâ hesabınızla kural yazarken Devam'a bastığınızda artık bekleme göstergesi görünüyor.",
+    "en": "When creating a rule with your own AI account, tapping Continue now shows a waiting indicator.",
+    "de": "Beim Erstellen einer Regel mit Ihrem eigenen KI-Konto zeigt Weiter jetzt eine Warteanzeige."
   }
 }
