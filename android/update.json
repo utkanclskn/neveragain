@@ -1,13 +1,13 @@
 {
-  "versionCode": 1030077,
+  "versionCode": 1030127,
   "versionName": "1.3",
-  "build": 77,
-  "sha256": "2008eef18c4590b579e9b97d11b36a7af992e902e51b7013dea8e46035b5ccae",
+  "build": 127,
+  "sha256": "f571665cf93ed3f3a1a0cc983df5a03c4af58537a998f30820fcf2dc7f6d2066",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-77/NeverAgain-1.3-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-127/NeverAgain-1.3-Android.apk",
   "notes": {
-    "tr": "Genel temizlik: kendi yapay zeka hesabınızla bildirim sorusu artık her akışta arka planda üretiliyor (takvim etkinliğinden ve 'ne zaman' seçiminden sonra da); öneriden gelen cümle etkinlikle hemen anlaşılıyor; sağ üstteki Yapay Zeka Önerileri düğmesi liste kaydırılınca simgeye küçülüyor; Bütçem'deki düğmeler uzun dillerde alt alta.",
-    "en": "Cleanup: with your own AI account the notification question is now generated in the background in every flow (also after a calendar event or the 'when' step); a suggested sentence is understood immediately with its event; the top-right AI Suggestions button shrinks to an icon while scrolling; budget buttons wrap in long languages.",
-    "de": "Aufräumen: Mit eigenem KI-Konto wird die Mitteilungsfrage jetzt in jedem Ablauf im Hintergrund erzeugt (auch nach einem Kalendertermin oder dem „Wann“-Schritt); ein vorgeschlagener Satz wird sofort mit seinem Termin verstanden; die KI-Vorschläge-Schaltfläche oben rechts schrumpft beim Scrollen zum Symbol; Budget-Schaltflächen brechen in langen Sprachen um."
+    "tr": "Cümle anlama düzeltmeleri: ay sonu, İngilizce cümleler, geçersiz saat; boşta pil tüketimi giderildi; yapay zeka önerilerinde doğru tarihler; tutar ve yedek düzeltmeleri.",
+    "en": "Sentence understanding fixes: month end, English sentences, invalid times; idle battery drain fixed; correct dates in AI suggestions; amount and backup fixes.",
+    "de": "Verbesserte Satzerkennung: Monatsende, englische Sätze, ungültige Uhrzeiten; Akkuverbrauch im Leerlauf behoben; korrekte Daten in KI-Vorschlägen; Betrags- und Backup-Korrekturen."
   }
 }
