@@ -1,13 +1,13 @@
 {
-  "versionCode": 1030127,
+  "versionCode": 1030128,
   "versionName": "1.3",
-  "build": 127,
-  "sha256": "f571665cf93ed3f3a1a0cc983df5a03c4af58537a998f30820fcf2dc7f6d2066",
+  "build": 128,
+  "sha256": "abcef1f65212ae43eda07e5680813e42b83dbcfc57d5ec6ccd3674b31f026530",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-127/NeverAgain-1.3-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-128/NeverAgain-1.3-Android.apk",
   "notes": {
-    "tr": "Cümle anlama düzeltmeleri: ay sonu, İngilizce cümleler, geçersiz saat; boşta pil tüketimi giderildi; yapay zeka önerilerinde doğru tarihler; tutar ve yedek düzeltmeleri.",
-    "en": "Sentence understanding fixes: month end, English sentences, invalid times; idle battery drain fixed; correct dates in AI suggestions; amount and backup fixes.",
-    "de": "Verbesserte Satzerkennung: Monatsende, englische Sätze, ungültige Uhrzeiten; Akkuverbrauch im Leerlauf behoben; korrekte Daten in KI-Vorschlägen; Betrags- und Backup-Korrekturen."
+    "tr": "Kendi yapay zekâ hesabınız seçiliyken kontrol listesi maddeleri ve bildirim sorusu da seçtiğiniz modelden geliyor.",
+    "en": "When your own AI account is selected, checklist items and the notification question now also come from the model you chose.",
+    "de": "Wenn Ihr eigenes KI-Konto ausgewählt ist, stammen Checklistenpunkte und die Benachrichtigungsfrage jetzt ebenfalls vom gewählten Modell."
   }
 }
