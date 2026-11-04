@@ -1,13 +1,13 @@
 {
-  "versionCode": 1030130,
+  "versionCode": 1030246,
   "versionName": "1.3",
-  "build": 130,
-  "sha256": "d5480b29fe7003017e2f705f014ec781cb078942b3debadf383dc75329758e22",
+  "build": 246,
+  "sha256": "0da8c565668fba4571fe323203ce76d26976f65dda8907dfcceb6653f9478aba",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-130/NeverAgain-1.3-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-246/NeverAgain-1.3-Android.apk",
   "notes": {
-    "tr": "Kendi Anthropic hesabınızla bağlantı artık kuruluyor (temperature hatası giderildi).",
-    "en": "Connecting with your own Anthropic account works again (temperature error fixed).",
-    "de": "Die Verbindung mit Ihrem eigenen Anthropic-Konto funktioniert wieder (Temperature-Fehler behoben)."
+    "tr": "Genel temizlik: 50'den fazla düzeltme (ayrıştırıcı, motor, arayüz), hazır kural paketleri, takvim kurallarında hazırlık listesi önerileri, yeni “arabadan inince” tetikleyicisi, Samsung kilit ekranı kartı artık uygulama adıyla.",
+    "en": "General cleanup: 50+ fixes (parser, engine, UI), starter rule packs, prep checklist suggestions for calendar rules, new “when I get out of the car” trigger, Samsung lock-screen card now shows the app name.",
+    "de": "Große Bereinigung: über 50 Korrekturen (Parser, Engine, Oberfläche), Starterpakete mit Regeln, Vorschläge für die Vorbereitungsliste bei Kalenderregeln, neuer Auslöser „beim Aussteigen aus dem Auto“, Samsung-Sperrbildschirmkarte zeigt jetzt den App-Namen."
   }
 }
