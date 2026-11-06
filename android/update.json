@@ -1,13 +1,13 @@
 {
-  "versionCode": 1030246,
+  "versionCode": 1030277,
   "versionName": "1.3",
-  "build": 246,
-  "sha256": "0da8c565668fba4571fe323203ce76d26976f65dda8907dfcceb6653f9478aba",
+  "build": 277,
+  "sha256": "2746b4db8315267a54ef280bd80f2781b73fbbf70c25f94f18ea43548e4c200f",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-246/NeverAgain-1.3-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-277/NeverAgain-1.3-Android.apk",
   "notes": {
-    "tr": "Genel temizlik: 50'den fazla düzeltme (ayrıştırıcı, motor, arayüz), hazır kural paketleri, takvim kurallarında hazırlık listesi önerileri, yeni “arabadan inince” tetikleyicisi, Samsung kilit ekranı kartı artık uygulama adıyla.",
-    "en": "General cleanup: 50+ fixes (parser, engine, UI), starter rule packs, prep checklist suggestions for calendar rules, new “when I get out of the car” trigger, Samsung lock-screen card now shows the app name.",
-    "de": "Große Bereinigung: über 50 Korrekturen (Parser, Engine, Oberfläche), Starterpakete mit Regeln, Vorschläge für die Vorbereitungsliste bei Kalenderregeln, neuer Auslöser „beim Aussteigen aus dem Auto“, Samsung-Sperrbildschirmkarte zeigt jetzt den App-Namen."
+    "tr": "Takvimde hafta görünümü; ısrarcı hatırlatma 30 dk cevapsız kalınca \"Yakınıma haber ver\" düğmeli üçüncü bildirim (Ayarlar > Hatırlatmalar); arabadan iniş kuralı daha fazla cümleyi tanıyor ve araba Bluetooth'u daha güvenilir izleniyor; hazır paketler kurulamayanları gösteriyor; takvim ve bildirim düzeltmeleri.",
+    "en": "Week view in the calendar; a third notification with a \"Tell someone close\" button when a persistent reminder goes unanswered for 30 minutes (Settings > Reminders); the car-exit rule understands more sentences and watches the car Bluetooth more reliably; template packs show what could not be set up; calendar and notification fixes.",
+    "de": "Wochenansicht im Kalender; dritte Benachrichtigung mit „Angehörige benachrichtigen“, wenn eine hartnäckige Erinnerung 30 Minuten unbeantwortet bleibt (Einstellungen > Erinnerungen); die Aussteige-Regel versteht mehr Sätze und überwacht das Auto-Bluetooth zuverlässiger; Vorlagenpakete zeigen, was nicht eingerichtet werden konnte; Kalender- und Benachrichtigungskorrekturen."
   }
 }
