@@ -1,13 +1,13 @@
 {
-  "versionCode": 1030277,
+  "versionCode": 1030336,
   "versionName": "1.3",
-  "build": 277,
-  "sha256": "2746b4db8315267a54ef280bd80f2781b73fbbf70c25f94f18ea43548e4c200f",
+  "build": 336,
+  "sha256": "bac32e6aac3e676581d639add2fe9af2b4749c43123b6ef2addf2cdb42bc8e23",
   "minSdk": 26,
-  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-277/NeverAgain-1.3-Android.apk",
+  "apkUrl": "https://github.com/utkanclskn/neveragain/releases/download/android-v1.3-336/NeverAgain-1.3-Android.apk",
   "notes": {
-    "tr": "Takvimde hafta görünümü; ısrarcı hatırlatma 30 dk cevapsız kalınca \"Yakınıma haber ver\" düğmeli üçüncü bildirim (Ayarlar > Hatırlatmalar); arabadan iniş kuralı daha fazla cümleyi tanıyor ve araba Bluetooth'u daha güvenilir izleniyor; hazır paketler kurulamayanları gösteriyor; takvim ve bildirim düzeltmeleri.",
-    "en": "Week view in the calendar; a third notification with a \"Tell someone close\" button when a persistent reminder goes unanswered for 30 minutes (Settings > Reminders); the car-exit rule understands more sentences and watches the car Bluetooth more reliably; template packs show what could not be set up; calendar and notification fixes.",
-    "de": "Wochenansicht im Kalender; dritte Benachrichtigung mit „Angehörige benachrichtigen“, wenn eine hartnäckige Erinnerung 30 Minuten unbeantwortet bleibt (Einstellungen > Erinnerungen); die Aussteige-Regel versteht mehr Sätze und überwacht das Auto-Bluetooth zuverlässiger; Vorlagenpakete zeigen, was nicht eingerichtet werden konnte; Kalender- und Benachrichtigungskorrekturen."
+    "tr": "Bütçem: birikim hedefleri, günlük harcanabilir tutar ve ay sonu tahmini, kategori eğilimi, aboneliklerin yıllık maliyeti. Takvimde günün harcamaları. Fotoğraftan hatırlatma: fatura ya da randevu kâğıdının fotoğrafından hazır cümle. Takvim etkinliği hatırlatması artık yalnızca bir kez geliyor; \"Yakınıma haber ver\" düğmesi düzeltildi; tekrarlayan etkinlik düzenlemesi, Bluetooth izni ve birçok çözümleyici düzeltmesi.",
+    "en": "My Budget: savings goals, a daily safe-to-spend amount and month-end forecast, category trends, yearly cost of subscriptions. Day expenses in the calendar. Reminder from a photo: a ready sentence from a photo of a bill or appointment slip. Calendar event reminders now arrive only once; the \"Tell someone close\" button is fixed; recurring event editing, Bluetooth permission and many parser fixes.",
+    "de": "Mein Budget: Sparziele, täglicher Ausgabenrahmen und Monatsende-Prognose, Kategorietrends, Jahreskosten der Abos. Tagesausgaben im Kalender. Erinnerung aus Foto: fertiger Satz aus dem Foto einer Rechnung oder eines Terminzettels. Kalendererinnerungen kommen jetzt nur einmal; die Taste „Angehörige benachrichtigen“ ist korrigiert; Bearbeiten von Serienterminen, Bluetooth-Berechtigung und viele Parser-Korrekturen."
   }
 }
